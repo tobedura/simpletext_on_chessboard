@@ -10,7 +10,7 @@
 
 ## 데모
 
-<video src="https://raw.githubusercontent.com/tobedura/simpletext_on_chessboard/main/assets/simpletext.mp4" controls></video>
+![demo](assets/simpletext.gif)
 
 ## 실행 방법
 ```bash
